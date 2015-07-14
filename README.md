@@ -7,3 +7,9 @@ and it can be processed.
 
 We need php backend programming codes according to your will with the code.You have to read about GCM for notifications for application.
 Besides that code has everything you need to know with commend lines.
+
+#Contact
+
+With any questions or request you can contact me over my mail.
+
+muhammedsalihguler@gmail.com
